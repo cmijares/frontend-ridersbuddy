@@ -529,7 +529,7 @@ option {
 }
 
 .tbl-2 {
-  margin-top: -5em;
+  margin-top: 3em;
 }
 
 table {
